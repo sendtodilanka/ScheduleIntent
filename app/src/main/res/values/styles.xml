@@ -17,4 +17,9 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="StyledScrollerTextAppearance">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
 </resources>
